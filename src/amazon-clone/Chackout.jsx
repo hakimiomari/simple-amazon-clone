@@ -1,5 +1,5 @@
 import React from "react";
-import { State_Value } from "./amzon images/State_Provider";
+import { State_Value } from "./State_Provider";
 
 const Chackout = () => {
   const [state, dispatch] = State_Value();

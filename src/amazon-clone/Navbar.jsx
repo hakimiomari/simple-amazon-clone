@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { SlBasket } from "react-icons/sl";
-import { State_Value } from "./amzon images/State_Provider";
+import { State_Value } from "./State_Provider";
 const Navbar = () => {
   const [state, dispatch] = State_Value();
   return (

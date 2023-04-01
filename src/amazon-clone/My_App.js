@@ -1,5 +1,5 @@
 import React from "react";
-import { State_Provider } from "./amzon images/State_Provider";
+import { State_Provider } from "./State_Provider";
 import Navbar from "./Navbar";
 import Product from "./Product";
 import { initialValue, reducer } from "./reducer";
